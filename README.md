@@ -1,4 +1,4 @@
-I've published these rpms to help all sysadmin (for CentoOS/Linux 7.x, and maybe RedHat 7.x) to solve this CVE:
+I've published these rpms to help all sysadmin (for CentoOS/Linux 7.x, and RedHat 7.x) to solve this CVE:
 
 https://nvd.nist.gov/vuln/detail/CVE-2019-6111
 
