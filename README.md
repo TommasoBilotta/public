@@ -1,4 +1,4 @@
-I've published this rpm to help all sysadmin (for CentoOS/Linux 7.x, and maybe RedHat 7.x) to solve this CVE:
+I've published these rpms to help all sysadmin (for CentoOS/Linux 7.x, and maybe RedHat 7.x) to solve this CVE:
 
 https://nvd.nist.gov/vuln/detail/CVE-2019-6111
 
@@ -11,3 +11,6 @@ after installation i've to run this command:
 chmod 600 /etc/ssh/*_key
 
 to start sshd.
+
+The dir OpenSSH-RPM contain a yum repo and all packages are signed with my smartcard (the key is opengpg-key.gpg to import in rpm keystore).
+
